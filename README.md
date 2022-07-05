@@ -6,7 +6,11 @@
 <h1 align="center">Hi 👋, I'm Heba Atef</h1>
 <h3 align="center">A passionate Data Scientist from Egypt</h3>
 
-- 🌱 I’m currently learning about **Machine Learning and Deep Learning**
+- 👨🏻‍💻 I'm Currently a Senior Computer and Systems Engineering Student
+
+- 🌱 I’m currently learning about **Data Science**
+
+- 🥅 My GOAL: Work as a professional Data Science and Contribute more to Open Source projects
 
 - 📫 How to reach me **heba.atef.muhammed@gmail.com**
 
