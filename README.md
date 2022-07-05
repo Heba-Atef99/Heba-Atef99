@@ -1,3 +1,8 @@
+<div align="center">
+  <img height="400" src="https://raw.githubusercontent.com/Heba-Atef99/Heba-Atef99/main/giphy.gif">
+</div>
+</br>
+
 <h1 align="center">Hi 👋, I'm Heba Atef</h1>
 <h3 align="center">A passionate Data Scientist from Egypt</h3>
 
