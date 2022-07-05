@@ -17,7 +17,7 @@
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1wFgvzk8cr4H0MlJWndunxrAo1a33vKpB/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
 <a href="https://kaggle.com/hebaatef" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="hebaatef" height="30" width="40" /></a>
 <a href="https://fb.com/heba.ateff.99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="heba.ateff.99" height="30" width="40" /></a>
 </p>
