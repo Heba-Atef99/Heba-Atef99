@@ -1,12 +1,12 @@
 <div align="center">
-  <img height="400" src="https://github.com/Heba-Atef99/Heba-Atef99/blob/master/giphy.gif">
+  <img height="300" src="https://github.com/Heba-Atef99/Heba-Atef99/blob/master/giphy.gif">
 </div>
 </br>
 
 <h1 align="center">Hi 👋, I'm Heba Atef</h1>
 <h3 align="center">A passionate Data Scientist from Egypt</h3>
 
-- 🌱 I’m currently learning **about Machine Learning and Deep Learning**
+- 🌱 I’m currently learning about **Machine Learning and Deep Learning**
 
 - 📫 How to reach me **heba.atef.muhammed@gmail.com**
 
