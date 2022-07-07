@@ -32,9 +32,9 @@
   <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=heba-atef99&theme=dracula" />
 </p>
   
-<p style="text-align: center;">
+<p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=heba-atef99&show_icons=true&locale=en&layout=compact&theme=dracula" alt="heba-atef99" />
 </p>
 
-<p style="text-align: center;">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=heba-atef99&show_icons=true&locale=en&theme=dracula" alt="heba-atef99" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=heba-atef99&show_icons=true&locale=en&theme=dracula" alt="heba-atef99" /></p>
 </div>
