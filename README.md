@@ -9,7 +9,7 @@
 - 👩‍💻 I'm currently an AI R&D Engineer at METI
  
 - 👩‍🎓 I joined 9-months AI & ML track at ITI
-- 
+
 - 👩‍🎓 I'm a Computer and Systems Engineering Graduate
 
 - 🌱 I’m currently learning about **AI and Machine Learning**
