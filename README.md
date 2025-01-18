@@ -6,7 +6,7 @@
 <h1 align="center">Hi 👋, I'm Hebat-Allah Atef</h1>
 <h3 align="center">A passionate AI Engineer from Egypt</h3>
 
-- 👩‍💻 I'm currently an AI R&D Engineer at METI
+- 👩‍💻 I'm currently a Computer Vision R&D Engineer at World Retina LLC
  
 - 👩‍🎓 I joined 9-months AI & ML track at ITI
 
